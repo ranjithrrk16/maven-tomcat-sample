@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>DevOps Shack</title>
+  <title>DevOps Daily</title>
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -66,8 +66,8 @@
 </head>
 <body>
   <header>
-    <h1>DevOps Shack</h1>
-    <p>Your one-stop destination for all things DevOps!</p>
+    <h1>DevOps Daily</h1>
+    <p>Learn all about DevOps with Handson</p>
   </header>
   <div class="container">
     <h2>Contact Us</h2>
@@ -78,10 +78,10 @@
       <input type="submit" value="Send Message">
     </form>
     <div class="youtube-video">
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/NnkUGzaqqOc" frameborder="0" allowfullscreen></iframe>
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/RaCSc8TJiZM" frameborder="0" allowfullscreen></iframe>
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/Vwo8zV8zmQU" frameborder="0" allowfullscreen></iframe>
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/b45z8f0_Eto" frameborder="0" allowfullscreen></iframe>
+      <iframe width="560" height="315" src="https://www.youtube.com/watch?v=EY1hsh-HCjo" frameborder="0" allowfullscreen></iframe>
+      <iframe width="560" height="315" src="https://www.youtube.com/watch?v=11KT1hPNkY4&t=9679s" frameborder="0" allowfullscreen></iframe>
+      <iframe width="560" height="315" src="https://www.youtube.com/watch?v=331hkZcZxQc&t=10s" frameborder="0" allowfullscreen></iframe>
+      <iframe width="560" height="315" src="https://www.youtube.com/watch?v=ZZSInbb3n5U" frameborder="0" allowfullscreen></iframe>
     </div>
   </div>
 </body>
